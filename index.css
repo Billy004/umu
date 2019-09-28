@@ -1,0 +1,39 @@
+h1{
+    color: red;
+    border: 10px green dotted;
+    text-align: center;
+
+}
+p{
+    color: blue;
+    text-align: center;
+    font-size: 12px;
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+
+div a:link{
+    text-decoration: none;
+    font-size: 20px;
+    color:white;
+}
+
+div a:visited{
+color: green;
+}
+
+li{
+    padding: 20px;
+
+}
+div{
+background-color: tomato;
+}
+
+div a:hover{
+background-color: black;
+color: white;
+}
